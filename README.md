@@ -2,7 +2,7 @@
 https://sipi.usc.edu/database/database.php?volume=misc&image=10#top
 
 
-4D光 场
+light field
 https://lightfield-analysis.uni-konstanz.de/
 
 
