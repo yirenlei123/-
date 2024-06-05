@@ -1,9 +1,15 @@
 经典彩色图片
 https://sipi.usc.edu/database/database.php?volume=misc&image=10#top
+
+
 光场
 https://lightfield-analysis.uni-konstanz.de/
+
+
 多光谱
 https://www.cs.columbia.edu/CAVE/databases/multispectral/
+
+
 彩色视频
 http://trace.eas.asu.edu/yuv/
 
